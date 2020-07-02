@@ -17,7 +17,7 @@
 
 	<!-- 统一管理jar文件的版本号 -->
 	<properties>
-		<mysql-connector.vesion>5.1.45</mysql-connector.vesion>
+		<mysql-connector.vesion>8.0.16</mysql-connector.vesion>
 		<jstl.version>1.2</jstl.version>
 		<druid.versoin>1.1.20</druid.versoin>
 		<commons-dbutils.version>1.7</commons-dbutils.version>
